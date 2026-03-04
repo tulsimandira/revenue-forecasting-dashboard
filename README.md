@@ -32,21 +32,22 @@ programme before churn erodes the 2025 revenue base.
 ---
 
 ## Business Problem
-
-The finance team observed that payments were failing at an
-unusually high rate and that the business had no clear visibility
-into whether it was on track to hit its 2025 revenue targets.
-They partnered with the data team to investigate revenue
-performance across regions, products and customer segments —
-and identify whether operational issues within payments,
-contracts and customer health were negatively impacting the
-company's ability to convert and retain paying customers.
-
-To answer these questions the team first needed to resolve
-significant data quality issues across all 8 source files —
-including 32% of revenue records with no region code, 51% of
-contracts with swapped start and end dates, and payment failures
-occurring at 31.2% every month without any monitoring in place.
+The finance team came to you one day concerned that payments were
+failing at an unusually high rate and that nobody could answer
+whether the business was on track to hit its 2025 revenue targets.
+As a data analyst you know these concerns are valid and worth
+digging into, so you immediately pull up the data. The business
+has been running for 3 years across 200 customers and 1,000
+revenue transactions — but the data has never been properly
+analysed. After sitting down with the data you quickly realise
+why nobody has been able to answer these questions. 32% of revenue
+records have no region attached, 51% of contracts have their start
+and end dates completely swapped, and most urgently — 31.2% of
+payments are failing every single month without any monitoring in
+place. You put together a plan to clean all 8 datasets using SQL,
+build a Tableau dashboard that answers the questions leadership is
+asking, and come back with concrete recommendations that protect
+the $1,419,549 forecast for 2025.
 
 ---
 
