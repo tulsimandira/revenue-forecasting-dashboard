@@ -50,6 +50,9 @@ build a Tableau dashboard that answers the questions leadership is
 asking, and come back with concrete recommendations that protect
 the $1,419,549 forecast for 2025.
 
+![Revenue Forecasting Model](images/revenue_forecast_diagram.png)
+
+
 ---
 
 ## Methodology
