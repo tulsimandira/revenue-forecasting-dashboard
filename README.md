@@ -53,14 +53,13 @@ the $1,419,549 forecast for 2025.
 ---
 
 ## Methodology
-
 - Exploratory Data Analysis (EDA)
-- Data Quality Assessment
-- Data Cleaning & Preprocessing
-- Time Series Analysis
-- Customer Cohort Analysis
+- Data Quality Assessment & Cleaning
+- Star Schema Data Modelling
+- Time Series Visualisation & Trend Analysis
+- Customer Segmentation Analysis
 - Revenue Attribution Analysis
-- Dashboard Design & Visualisation
+- Dashboard Design & Visualisation (Tableau Public)
 
 ---
 
