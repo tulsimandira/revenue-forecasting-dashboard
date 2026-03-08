@@ -79,7 +79,7 @@ the $1,419,549 forecast for 2025.
 
 ## Results & Business Recommendations
 
-![Revenue Forecasting Dashboard](images/dashboard.png)
+![Revenue Forecasting Dashboard](images/dashboard_revenue_forecast.png)
 
 ---
 
