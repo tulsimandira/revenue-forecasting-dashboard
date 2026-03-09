@@ -25,23 +25,23 @@ Payment failures were climbing with no monitoring in place and leadership had no
 
 ## Methodology
 
-Exploratory Data Analysis (EDA)
-Data Quality Assessment & Cleaning
-Star Schema Data Modelling
-Time Series Visualisation & Trend Analysis
-Customer Segmentation Analysis
-Revenue Attribution Analysis
-Dashboard Design & Visualisation (Tableau Public)
+- Exploratory Data Analysis (EDA)
+- Data Quality Assessment & Cleaning
+- Star Schema Data Modelling
+- Time Series Visualisation & Trend Analysis
+- Customer Segmentation Analysis
+- Revenue Attribution Analysis
+- Dashboard Design & Visualisation (Tableau Public)
 
 ---
 
 ## Skills
 
-SQL
-Tableau Public
-Data Modelling
-Data Cleaning
-Business Intelligence
+- SQL
+- Tableau Public
+- Data Modelling
+- Data Cleaning
+- Business Intelligence
 
 
 ---
