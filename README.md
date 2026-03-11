@@ -48,7 +48,7 @@ Payment failures were climbing with no monitoring in place and leadership had no
 
 31.2% of payments fail every month, churn is identical across every customer segment at 34.5%, and $4.1M in contract value requires manual renewal each cycle — the business has been running blind on all three of its most critical risk areas. Here is what each chart found and what should be done about it.
 
-![Revenue Forecasting Dashboard](images/dashboard_revenue.png)
+![Revenue Forecasting Dashboard](images/Revenue_forecast_dashboard.png)
 
 ### Chart 1 — Monthly Revenue Trend vs 2025 Forecast
 Monthly revenue stayed between $80K–$210K since 2022 with seasonal dips every August and October. The 2025 forecast mirrors this pattern, peaking in January at $193,949 and dropping to $60,534 in August. Proactive campaigns during low months are needed to prevent the same revenue gaps repeating in 2025.
