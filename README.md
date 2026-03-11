@@ -20,7 +20,6 @@ Payment failures were climbing with no monitoring in place and leadership had no
 
 ![Revenue Forecasting Dashboard](images/revenue_forecast_diagram.png)
 
-
 ---
 
 ## Methodology
@@ -43,7 +42,6 @@ Payment failures were climbing with no monitoring in place and leadership had no
 - Data Cleaning
 - Business Intelligence
 
-
 ---
 
 ## Results & Business Recommendations
@@ -53,10 +51,10 @@ Payment failures were climbing with no monitoring in place and leadership had no
 ![Revenue Forecasting Dashboard](images/dashboard_revenue.png)
 
 ### Chart 1 — Monthly Revenue Trend vs 2025 Forecast
-Monthly revenue stayed between $80K–$210K since 2022 with seasonal dips every August and October. The 2025 forecast mirrors this pattern, peaking in January at $193,949 and dropping to $60,534 in August. Proactive campaigns during low months are needed to prevent the same revenue gaps repeating in 2025.
+Monthly revenue stayed between $80K–$210K since 2022 with seasonal dips every August and October. The 2025 forecast mirrors this pattern, peaking in January at $193,949 and dropping to $60,534 in August. The forecast line begins where actual revenue ends — January 2025 — giving a clear visual handoff between historical performance and projected targets. Proactive campaigns during low months are needed to prevent the same revenue gaps repeating in 2025.
 
 ### Chart 2 — Revenue by Region
-Asia Pacific leads at $1,742,969 and Europe at $1,636,719 — but $1,618,542 carries no regional attribution at all. 32% of transactions were recorded without a region code, making it impossible to measure which territory is actually performing. Region tagging must be fixed at the point of data entry before any regional investment or sales decisions can be made with confidence.
+Asia Pacific leads at $1,742,969, Europe at $1,636,719, and North America at $1,618,542. The three regions are nearly equal in contribution, suggesting no single region is driving outsized growth. Regional sales and marketing investment should be evaluated against these baselines to determine where incremental spend would have the highest return.
 
 ### Chart 3 — Product Category Mix
 Revenue splits near-equally across Add-On at 34.4%, Subscription at 34% and One-Time at 31.6%. Subscription is the most strategically valuable category as it generates predictable recurring revenue. Shifting focus from One-Time to Subscription products would improve forecast reliability and make the $1,419,549 target for 2025 more defensible.
@@ -71,12 +69,12 @@ Every month from 2022 to 2024 shows the same split — one third complete, one t
 The 2025 forecast predicts $1,419,549 in total revenue with January peaking at $193,949 and August as the lowest at $60,534. The forecast mirrors historical seasonal patterns, giving confidence in its directional accuracy. This monthly breakdown gives the business a clear roadmap to align sales capacity and marketing spend ahead of each peak and trough.
 
 ### Chart 7 — Auto-Renew vs Contract Value
-$4,100,000 in contract value — over half the total — sits in contracts requiring manual renewal every cycle. The sales team must actively re-sell more than half the contract base each year just to hold current revenue levels. A structured renewal outreach programme and incentives to move customers onto auto-renew are needed to protect this $4.1M from quietly lapsing.
+$4,090,434 in contract value sits in contracts requiring manual renewal every cycle, compared to $3,711,784 on auto-renew. Over half the contract base must be actively re-sold each year just to hold current revenue levels. A structured renewal outreach programme and incentives to move customers onto auto-renew are needed to protect this $4.1M from quietly lapsing.
 
 ---
 
 ## Next Steps
 
-1. Investigate the $1.62M in Unattributed revenue by cross-referencing customer billing addresses to recover regional attribution at source
+1. Investigate North America regional revenue by cross-referencing customer billing addresses to validate attribution accuracy
 2. Categorise payment failure reasons to determine whether the fix sits with the payment gateway or internal engineering
 3. Build a churn prediction model using customer tenure, payment history and contract value to identify at-risk customers early
