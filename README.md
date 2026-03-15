@@ -9,6 +9,7 @@ to protect the **$1,419,549 forecast for 2025**.
 🔗 [View Dashboard (Tableau Public)](https://public.tableau.com/views/RevenueforecastingDashboard/RevenueForecastingDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 🔗 [View Notebook (Hex)](https://app.hex.tech/0199335d-610a-7001-9c7d-fb84db58160d/app/Project-Revenue-Forecasting-032hk4aDJ3fPwnmcbahwkV/latest)
+
 ---
 
 ## Executive Summary
