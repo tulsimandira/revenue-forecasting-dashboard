@@ -1,6 +1,10 @@
 # Subscription Revenue Forecasting Dashboard
 
-A subscription-based software business generating $4,998,230 in revenue over 3 years needed to understand why payments were failing and whether the business was on track for 2025. Using SQL and Tableau, I analysed 8 datasets across revenue, customers, contracts and payments — uncovering three critical operational failures and building a dashboard that gives leadership the visibility they need to protect the $1,419,549 forecast for 2025.
+A subscription-based software business generating **$4,998,230 in revenue over 3 years** needed to 
+understand why payments were failing and whether the business was on track for 2025. Using SQL and 
+Tableau, I analysed 8 datasets across revenue, customers, contracts and payments — uncovering three 
+critical operational failures and building a dashboard that gives leadership the visibility they need 
+to protect the **$1,419,549 forecast for 2025**.
 
 🔗 **Live Dashboard (Tableau Public):**
 [View Dashboard](https://public.tableau.com/views/RevenueforecastingDashboard/RevenueForecastingDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
