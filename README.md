@@ -4,8 +4,7 @@ A subscription-based software business generating $4,998,230 in revenue over 3 y
 
 🔗 **Live Dashboard (Tableau Public):** [https://public.tableau.com/views/RevenueforecastingDashboard/RevenueForecastingDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
-🔗 **Live Interactive Notebook (Hex):** [https://app.hex.tech/0199335d-610a-7001-9c7d-fb84db58160d/hex/Revenue-Forecasting-032bRanDe95CkPO2N4C4q1/draft/logic]
-
+🔗 **Live Interactive Notebook (Hex):** [https://app.hex.tech/0199335d-610a-7001-9c7d-fb84db58160d/app/Project-Revenue-Forecasting-032hk4aDJ3fPwnmcbahwkV/latest]
 ---
 
 ## Executive Summary
