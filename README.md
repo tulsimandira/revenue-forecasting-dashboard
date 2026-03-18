@@ -22,7 +22,7 @@ A subscription-based software business generating $4,998,230 in revenue over 3 y
 
 Payment failures were climbing with no monitoring in place and leadership had no visibility into whether 2025 targets were achievable. After pulling all 8 datasets the root causes became clear — 31.2% of payments failing every single month, churn running at 34.5% uniformly across all three customer segments, and more than half the contract base requiring active re-selling each renewal cycle. This project cleans the data using SQL, builds a Tableau dashboard to answer the key questions, and delivers recommendations to protect the $1,419,549 forecast.
 
-![Revenue Forecasting Dashboard](images/revenue_forecast_diagram.png)
+![Revenue Forecasting Dashboard](images/revenue_diagram.png)
 
 ---
 
